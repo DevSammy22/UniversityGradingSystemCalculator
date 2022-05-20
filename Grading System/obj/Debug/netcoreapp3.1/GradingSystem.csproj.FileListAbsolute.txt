@@ -1,0 +1,30 @@
+C:\Users\hp pavilion\source\repos\Grading System\Grading System\bin\Debug\netcoreapp3.1\GradingSystem.exe
+C:\Users\hp pavilion\source\repos\Grading System\Grading System\bin\Debug\netcoreapp3.1\GradingSystem.deps.json
+C:\Users\hp pavilion\source\repos\Grading System\Grading System\bin\Debug\netcoreapp3.1\GradingSystem.runtimeconfig.json
+C:\Users\hp pavilion\source\repos\Grading System\Grading System\bin\Debug\netcoreapp3.1\GradingSystem.runtimeconfig.dev.json
+C:\Users\hp pavilion\source\repos\Grading System\Grading System\bin\Debug\netcoreapp3.1\GradingSystem.dll
+C:\Users\hp pavilion\source\repos\Grading System\Grading System\bin\Debug\netcoreapp3.1\GradingSystem.pdb
+C:\Users\hp pavilion\source\repos\Grading System\Grading System\obj\Debug\netcoreapp3.1\GradingSystem.csproj.AssemblyReference.cache
+C:\Users\hp pavilion\source\repos\Grading System\Grading System\obj\Debug\netcoreapp3.1\GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp pavilion\source\repos\Grading System\Grading System\obj\Debug\netcoreapp3.1\GradingSystem.AssemblyInfoInputs.cache
+C:\Users\hp pavilion\source\repos\Grading System\Grading System\obj\Debug\netcoreapp3.1\GradingSystem.AssemblyInfo.cs
+C:\Users\hp pavilion\source\repos\Grading System\Grading System\obj\Debug\netcoreapp3.1\GradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\hp pavilion\source\repos\Grading System\Grading System\obj\Debug\netcoreapp3.1\GradingSystem.dll
+C:\Users\hp pavilion\source\repos\Grading System\Grading System\obj\Debug\netcoreapp3.1\GradingSystem.pdb
+C:\Users\hp pavilion\source\repos\Grading System\Grading System\obj\Debug\netcoreapp3.1\GradingSystem.genruntimeconfig.cache
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\Grading System\Grading System\bin\Debug\netcoreapp3.1\GradingSystem.exe
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\Grading System\Grading System\bin\Debug\netcoreapp3.1\GradingSystem.deps.json
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\Grading System\Grading System\bin\Debug\netcoreapp3.1\GradingSystem.runtimeconfig.json
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\Grading System\Grading System\bin\Debug\netcoreapp3.1\GradingSystem.runtimeconfig.dev.json
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\Grading System\Grading System\bin\Debug\netcoreapp3.1\GradingSystem.dll
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\Grading System\Grading System\bin\Debug\netcoreapp3.1\GradingSystem.pdb
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\Grading System\Grading System\obj\Debug\netcoreapp3.1\GradingSystem.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\Grading System\Grading System\obj\Debug\netcoreapp3.1\GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\Grading System\Grading System\obj\Debug\netcoreapp3.1\GradingSystem.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\Grading System\Grading System\obj\Debug\netcoreapp3.1\GradingSystem.AssemblyInfo.cs
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\Grading System\Grading System\obj\Debug\netcoreapp3.1\GradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\Grading System\Grading System\obj\Debug\netcoreapp3.1\GradingSystem.dll
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\Grading System\Grading System\obj\Debug\netcoreapp3.1\GradingSystem.pdb
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\Grading System\Grading System\obj\Debug\netcoreapp3.1\GradingSystem.genruntimeconfig.cache
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\Grading System\Grading System\bin\Debug\netcoreapp3.1\ConsoleTables.dll
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\Grading System\Grading System\obj\Debug\netcoreapp3.1\GradingSystem.csproj.CopyComplete

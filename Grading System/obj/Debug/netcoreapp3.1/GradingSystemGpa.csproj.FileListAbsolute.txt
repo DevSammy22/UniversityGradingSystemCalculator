@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\GpaCalculatorApp\Grading System\obj\Debug\netcoreapp3.1\GradingSystemGpa.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\GpaCalculatorApp\Grading System\obj\Debug\netcoreapp3.1\GradingSystemGpa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\GpaCalculatorApp\Grading System\obj\Debug\netcoreapp3.1\GradingSystemGpa.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\GpaCalculatorApp\Grading System\obj\Debug\netcoreapp3.1\GradingSystemGpa.AssemblyInfo.cs
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\GpaCalculatorApp\Grading System\obj\Debug\netcoreapp3.1\GradingSystemGpa.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\GpaCalculatorApp\Grading System\bin\Debug\netcoreapp3.1\GradingSystemGpa.exe
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\GpaCalculatorApp\Grading System\bin\Debug\netcoreapp3.1\GradingSystemGpa.deps.json
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\GpaCalculatorApp\Grading System\bin\Debug\netcoreapp3.1\GradingSystemGpa.runtimeconfig.json
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\GpaCalculatorApp\Grading System\bin\Debug\netcoreapp3.1\GradingSystemGpa.runtimeconfig.dev.json
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\GpaCalculatorApp\Grading System\bin\Debug\netcoreapp3.1\GradingSystemGpa.dll
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\GpaCalculatorApp\Grading System\bin\Debug\netcoreapp3.1\GradingSystemGpa.pdb
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\GpaCalculatorApp\Grading System\bin\Debug\netcoreapp3.1\ConsoleTables.dll
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\GpaCalculatorApp\Grading System\obj\Debug\netcoreapp3.1\GradingSystemGpa.csproj.CopyComplete
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\GpaCalculatorApp\Grading System\obj\Debug\netcoreapp3.1\GradingSystemGpa.dll
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\GpaCalculatorApp\Grading System\obj\Debug\netcoreapp3.1\GradingSystemGpa.pdb
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\GpaCalculatorApp\Grading System\obj\Debug\netcoreapp3.1\GradingSystemGpa.genruntimeconfig.cache
